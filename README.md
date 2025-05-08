@@ -20,7 +20,7 @@ I'm currently working on several personal and freelance projects, focusing on:
 ## 📂 Featured Projects
 
 - 🔁 [QuickFlip](https://quickflip-app.pl) – Flashcard app built with Next.js + PostgreSQL, integrated with ElevenLabs AI, integration with OpenAI API is under way.
-- 💼 [Portfolio Repo](https://github.com/lechoos/portfolio) – My portfolio codebase, showcasing several projects
+- 💼 [Portfolio Repo](https://github.com/lechoos) – My portfolio codebase, showcasing several projects
 
 ## 📫 Get in Touch
 
