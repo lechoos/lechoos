@@ -19,7 +19,7 @@ I'm currently working on several personal and freelance projects, focusing on:
 
 ## 📂 Featured Projects
 
-- 🔁 [QuickFlip](https://quickflip-app.pl) | [Source Code](https://github.com/lechoos/quickflip) – Flashcard app built with Next.js + PostgreSQL, integrated with ElevenLabs AI, integration with OpenAI API is under way.
+- 🔁 [QuickFlip](https://quickflip-app.pl) | [Source Code](https://github.com/lechoos/quick-flip) – Flashcard app built with Next.js + PostgreSQL, integrated with ElevenLabs AI, integration with OpenAI API is under way.
 - 💼 [Lotusite](https://lotusite.pl) | [Source Code](https://github.com/lechoos/lotusite) – My company's website, built with Next.js and TypeScript. 
 
 ## 📫 Get in Touch
