@@ -10,11 +10,6 @@ I work as a **Junior Frontend Developer** at [INDIGITAL](https://indigital.pl/)
 - **DevOps:** Docker, GitHub Actions
 - **Testing:** Jest, React Testing Library, Playwright, Vitest
 
-## 📂 Featured Projects
-
-- 🔁 [QuickFlip](https://quickflip-app.pl) | [Source Code](https://github.com/lechoos/quick-flip) – Flashcard app built with Next.js + PostgreSQL, integrated with ElevenLabs AI, integration with OpenAI API is under way.
-- 💼 [Lotusite](https://lotusite.pl) | [Source Code](https://github.com/lechoos/lotusite) – My company's website, built with Next.js and TypeScript. 
-
 ## 📫 Get in Touch
 
 - Email: [ptrlechowicz@gmail.com](mailto:ptrlechowicz@gmail.com)
