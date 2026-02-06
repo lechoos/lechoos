@@ -8,7 +8,7 @@ I work as a **Junior Frontend Developer** at [INDIGITAL](https://indigital.pl/)
 - **Frontend:** React, Next.js, Gatsby, TypeScript, Tailwind CSS, Styled Components
 - **Backend:** Node.js, Express, NestJS (basic), REST API, GraphQL
 - **DevOps:** Docker, GitHub Actions
-- **Testing:** Jest, React Testing Library, Playwright, Vitest, Storybook
+- **Testing:** Jest, React Testing Library, Playwright, Cypress, Vitest, Storybook
 
 ## 📫 Get in Touch
 
